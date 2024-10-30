@@ -29,18 +29,14 @@ To use the Recipe App, follow these steps:
 
 Here are some screenshots of the Recipe App in action:
 
-![Home Screen](https://github.com/username/recipe-app/blob/main/screenshots/home_screen.png?raw=true)
+<img src="https://github.com/soniakreddy/MyCuisineData/blob/main/Screenshots/Screenshot1.png?raw=true" alt="Home Screen" width="400"/>
 *Home Screen*
 
-![Recipe Detail](https://github.com/username/recipe-app/blob/main/screenshots/recipe_detail.png?raw=true)
+<img src="https://github.com/soniakreddy/MyCuisineData/blob/main/Screenshots/Screenshot2.png?raw=true" alt="Recipe Detail" width="400"/>
 *Recipe Detail Screen*
 
 ## **Demo Video**
-
-Watch the demo video to see the Recipe App in action:
-
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-*Click the image above to watch the demo video.*
+[Download and Watch the Demo Video](https://github.com/soniakreddy/MyCuisineData/raw/main/Demo/Demo.mp4)
 
 ## **Contributing**
 
@@ -57,5 +53,4 @@ If you'd like to contribute to the Recipe App, here are some guidelines:
 
 ## **Authors and Acknowledgment**
 
-The Recipe App was created by **[Your Name](https://github.com/username)**.
-
+The Recipe App was created by **[Sonia](https://github.com/soniakreddy)**.
